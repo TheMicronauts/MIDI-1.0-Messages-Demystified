@@ -1,4 +1,4 @@
-# MIDI 1.0 Messages Cheat Sheet
+# MIDI 1.0 Messages Cheat Sheets
 The resources in this repo untangle the essentials of the MIDI 1.0 standard for the beginner musician or aspiring instrument maker
 
 [MIDI 1.0 Messages Cheat Sheet](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists the different MIDI messages and their names, along with a brief explanation
