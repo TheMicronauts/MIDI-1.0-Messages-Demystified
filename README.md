@@ -6,6 +6,6 @@ The mental model is that of a musician and producer. We use MIDI as a modern ext
 
 I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and music culture.
 
-[MIDI 1.0 Messages Cheat Sheet](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists the different MIDI messages and their names, along with a brief explanation
+[MIDI 1.0 Messages Cheat Sheet](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists the different MIDI messages, along with a brief explanation
 
-[MIDI 1.0 CC Cheat Sheet](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/): lists the 128 Control Change messages, along with useful information
+[MIDI 1.0 CC Cheat Sheet](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/): lists the 128 Control Change messages, along with related information
