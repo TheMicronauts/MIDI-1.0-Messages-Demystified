@@ -2,7 +2,7 @@
 
 The resources in this repo untangle the essentials of the MIDI 1.0 standard for beginner musicians and aspiring instrument makers.
 
-The mental model is that of a musician-producer who uses MIDI to play and write music. To my peers and me, it’s a real-time notation language of the score and its interpretation, rooted in music theory, intelligible to both humans and machines. 
+The mental model is that of a musician-producer who uses MIDI to play and write music. To my peers and me, it’s a real-time notation language of both the score and its interpretation, rooted in music theory, intelligible to both humans and machines. 
 
 I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and culture.
 
