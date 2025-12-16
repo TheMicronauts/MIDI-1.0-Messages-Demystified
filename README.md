@@ -4,9 +4,7 @@ The resources in this repo untangle the essentials of the MIDI 1.0 standard for 
 
 The mental model is that of a musician-producer who uses MIDI to play and write music. To my peers and me, it functions as a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
 
-I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and culture. 
-
-It means, among other things, not trying to replace MIDI, not hiding it under too many layers of abstraction, not converting it—with all the errors caused by bugs and rounding—but instead passing it through as is, without changing the order of the messages (I’m looking at you VST3). Changing the order of the messages, in particular, amounts to rewriting the score, which is obviously unacceptable.
+I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and culture. It means, among other things, not trying to replace MIDI, not hiding it under too many layers of abstraction, not converting it—with all the errors caused by bugs and rounding—but instead passing it through as is, without changing the order of the messages (I’m looking at you VST3). Changing the order of the messages, in particular, amounts to rewriting the score, which is obviously unacceptable.
 
 [MIDI 1.0 Messages Demystified](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists and briefly explains the different MIDI messages
 
