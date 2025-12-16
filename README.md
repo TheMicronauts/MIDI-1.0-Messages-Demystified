@@ -4,7 +4,7 @@ The resources in this repo untangle the essentials of the MIDI 1.0 standard for 
 
 The mental model is that of a musician-producer who uses MIDI to play and write music: MIDI Messages constitute a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
 
-I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and culture. Changing the messages via conversion bugs and rounding arrors or changing their order amounts to rewriting the score, which is obviously unacceptable (I’m looking at you VST3).
+I encourage developers to approach MIDI with this mindset if they want to avoid writing wonky programs that are hostile to musical practice and culture. Changing the messages via conversion bugs and rounding errors or changing their order amounts to rewriting the score, which is obviously unacceptable (I’m looking at you VST3).
 
 [MIDI 1.0 Messages Demystified](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists and briefly explains the different MIDI messages
 
