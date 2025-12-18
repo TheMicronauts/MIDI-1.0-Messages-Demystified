@@ -1,6 +1,6 @@
 # MIDI 1.0 Messages Demystified
 
-The resources in this repo untangle the essentials of the MIDI 1.0 standard for beginner musicians and aspiring instrument makers.
+The resources in this repository, created for my students, untangle the essentials of the MIDI 1.0 standard for beginner musicians, aspiring instrument makers, and coders.
 
 The mental model is that of a musician-producer who uses MIDI to play and write music. In this model, MIDI Messages constitute a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
 
