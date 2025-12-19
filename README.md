@@ -2,7 +2,9 @@
 
 The resources in this repository, created for my students, untangle the essentials of the MIDI 1.0 standard for beginner musicians, aspiring instrument makers, and coders.
 
-The mental model is that of a musician-producer who uses MIDI to play and write music. In this model, MIDI Messages constitute a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
+The mental model is that of a musician-producer who uses MIDI to play and write music. 
+
+In this model, MIDI Messages constitute a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
 
 I encourage developers to adopt this model if they want to avoid writing wonky programs that are hostile to musical practice and culture. Changing the messages via abstraction or conversion bugs and rounding errors, or changing their order amounts to rewriting the score, which is obviously unacceptable (I’m looking at you VST3).
 
