@@ -1,5 +1,9 @@
 # MIDI 1.0 Messages Demystified
 
+I created the resources in this repository as a vade mecum that untangles the essentials of MIDI 1.0.
+
+My daughter found it useful when she started producing music. Hopefully, other musicians, aspiring instrument makers, or coders may find them just as helpful.
+
 The resources in this repository untangle the essentials of the MIDI 1.0 standard. 
 
 I originally created them for my daughter, but any beginner musicians, aspiring instrument makers, or coders may find them just as helpful.
