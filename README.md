@@ -1,6 +1,6 @@
 # MIDI 1.0 Messages Demystified
 
-I created the resources in this repository as a vade mecum that cuts through the noise and untangles the essentials of MIDI 1.0.
+I created the resources in this repository as a vade mecum that untangles the essentials of MIDI 1.0.
 
 My daughter found it useful when she started producing music. Hopefully, other musicians, students, aspiring instrument makers, or coders will find them just as helpful.
 
