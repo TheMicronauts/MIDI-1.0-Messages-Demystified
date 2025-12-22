@@ -1,6 +1,6 @@
 # MIDI 1.0 Messages Demystified
 
-The resources in this repository cut through the noise and untangle the essentials of the MIDI 1.0 standard. I originally created them for my daughter, but any beginner musicians, aspiring instrument makers, and coders may find them just as helpful.
+The resources in this repository cut through the noise and untangle the essentials of the MIDI 1.0 standard. I originally created them for my daughter, but any beginner musicians, aspiring instrument makers, or coders may find them just as helpful.
 
 The mental model is that of a musician-producer who uses MIDI to play and write music. 
 
