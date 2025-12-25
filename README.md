@@ -13,3 +13,20 @@ The mental model is that of a musician-producer who uses MIDI to play and write 
 In this model, MIDI Messages constitute a real-time notation language for both the score and its interpretation, grounded in music theory, and intelligible to both humans and machines. 
 
 I encourage developers to adopt this model if they want to avoid writing wonky programs that are hostile to musical practice and culture. Changing the messages via abstraction or conversion bugs, rounding errors, or reordering amounts to rewriting the score, which is obviously unacceptable (I’m looking at you VST3).
+
+# 
+# Les messages MIDI 1.0 démystifiés
+
+J’ai créé ce dépôt comme un vade-mecum qui démêle les fondemnts du MIDI 1.0.
+
+Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musiciens, étudiants, apprentis luthiers et développeurs.
+
+[Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
+
+Pense-bête des CC MIDI 1.0 : répertorie les 128 messages Control Change, avec des informations associées
+
+Le modèle mental adopté est celui d’un musicien-compositeur-réalisateur artistique qui utilise le MIDI pour jouer et écrire de la musique.
+
+Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
+
+J’encourage les développeurs à adopter ce modèle s’ils souhaitent éviter d’écrire des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
