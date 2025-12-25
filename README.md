@@ -17,7 +17,7 @@ I encourage developers to adopt this model if they want to avoid writing wonky p
 # 
 # Les messages MIDI 1.0 démystifiés
 
-J’ai créé ce dépôt comme un vade-mecum qui démêle les fondemnts du MIDI 1.0.
+J’ai créé ce dépôt comme un vade-mecum qui démêle l’essentiel du MIDI 1.0.
 
 Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musiciens, étudiants, apprentis luthiers et développeurs.
 
