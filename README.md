@@ -23,9 +23,9 @@ Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la mu
 
 [Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
 
-Pense-bête des CC MIDI 1.0 : répertorie les 128 messages Control Change, avec des informations associées
+[Pense-bête des CC MIDI 1.0](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/) : répertorie les 128 messages Control Change, avec des informations associées
 
-Le modèle mental adopté est celui d’un musicien-compositeur-réalisateur artistique qui utilise le MIDI pour jouer et écrire de la musique.
+Le modèle mental adopté est celui d’un « producteur » (musicien-compositeur-réalisateur artistique) qui utilise le MIDI pour jouer et écrire de la musique.
 
 Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
 
