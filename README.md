@@ -29,4 +29,4 @@ Le modèle mental est celui d’un « producteur » (musicien-compositeur-interp
 
 Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
 
-J’encourage les développeuses et développeurs à adopter ce modèle s’ils souhaitent éviter d’écrire des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
+J’encourage les développeuses et développeurs à adopter ce modèle pour éviter d’écrire des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
