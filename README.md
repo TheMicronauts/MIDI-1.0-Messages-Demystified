@@ -19,7 +19,7 @@ I encourage developers to adopt this model if they want to avoid writing wonky p
 
 Ce dépôt est un vade-mecum qui démêle l’essentiel du MIDI 1.0.
 
-Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musiciens, ou aux étudiants, apprentis luthiers et développeurs.
+Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musicien·ne·s, ou aux étudiant·e·s, apprenti·e·s luthier·ère·s et développeur·euse·s
 
 [Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
 
@@ -29,4 +29,4 @@ Le modèle mental adopté est celui d’un « producteur » (musicien-compositeu
 
 Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
 
-J’encourage les développeurs à adopter ce modèle s’ils souhaitent éviter d’écrire des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
+J’encourage les développeur·euse·s à adopter ce modèle s’ils souhaitent éviter d’écrire des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
