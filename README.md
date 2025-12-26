@@ -1,8 +1,8 @@
 # MIDI 1.0 Messages Demystified
 
-I created this repository as a vade mecum untangling the essentials of MIDI 1.0.
+This repository is a vade mecum untangling the essentials of MIDI 1.0.
 
-My daughter found it useful when she started producing music. Hopefully, other musicians, students, aspiring instrument makers, and coders will find it just as helpful.
+My daughter found it useful when she started producing music. Hopefully, other musicians, or students, aspiring instrument makers, and coders will find it just as helpful.
 
 [MIDI 1.0 Messages Demystified](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists and briefly explains the different MIDI messages and their format
 
@@ -19,7 +19,7 @@ I encourage developers to adopt this model if they want to avoid writing wonky p
 
 Ce dépôt est un vade-mecum qui démêle l’essentiel du MIDI 1.0.
 
-Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musiciens, étudiants, apprentis luthiers et développeurs.
+Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musiciens, ou aux étudiants, apprentis luthiers et développeurs.
 
 [Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
 
