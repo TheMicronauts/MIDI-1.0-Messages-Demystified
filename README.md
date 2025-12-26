@@ -25,7 +25,7 @@ Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la mu
 
 [Pense-bête des CC MIDI 1.0](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/) : répertorie les 128 messages Control Change avec quelques informations associées
 
-Le modèle mental adopté est celui d’un « producteur » (musicien-compositeur-réalisateur artistique) qui utilise le MIDI pour jouer et écrire de la musique.
+Le modèle mental est celui d’un « producteur » (musicien-compositeur-réalisateur artistique) qui utilise le MIDI pour jouer et écrire de la musique.
 
 Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
 
