@@ -15,7 +15,7 @@ In this model, MIDI Messages constitute a real-time notation language for both t
 I encourage developers to adopt this model if they want to avoid writing wonky programs that are hostile to musical practice and culture. Changing the messages via abstraction or conversion bugs, rounding errors, or reordering amounts to rewriting the score, which is obviously unacceptable (I’m looking at you VST3).
 
 # 
-# Les messages MIDI 1.0 démystifiés
+# Les Messages MIDI 1.0 démystifiés
 
 Ce dépôt est un vade-mecum qui démêle l’essentiel du MIDI 1.0.
 
