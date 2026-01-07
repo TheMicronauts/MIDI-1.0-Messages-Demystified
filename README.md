@@ -19,7 +19,7 @@ I encourage developers to adopt this model if they want to avoid writing wonky p
 
 Ce dépôt est un vade-mecum qui démêle l’essentiel du MIDI 1.0.
 
-Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. J’ai bon espoir qu’il le sera aussi à d’autres musicien(ne)s, ou aux étudiant(e)s, apprenti(e)s luthiers(ères) et développeurs(euses)
+Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la musique. Peut-être le sera-t-il aussi à d’autres musicien(ne)s, ou aux étudiant(e)s, apprenti(e)s luthiers(ères) et développeurs(euses)
 
 [Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
 
