@@ -2,7 +2,7 @@
 
 This repository is a vade mecum untangling the essentials of MIDI 1.0.
 
-My daughter found it useful when she started producing music. Hopefully, other musicians, or students, aspiring instrument makers, and coders will find it just as helpful.
+My daughter found it useful when she started producing music. Hopefully, other musicians, or students, aspiring instrument makers and coders will find it just as helpful.
 
 [MIDI 1.0 Messages Demystified](https://docs.google.com/document/d/1mNEl-4xRUtdilLxmV_6JKfgVAksGtDIJLRqTvIcyQwY/): lists and briefly explains the different MIDI messages and their format
 
