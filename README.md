@@ -21,8 +21,8 @@ Ma fille l’a trouvé bien utile lorsqu’elle a commencé à produire de la mu
 
 [Les messages MIDI 1.0 démystifiés](https://docs.google.com/document/d/15UTpqEIVIenuUXnnelo8AOy-UtODTeAOfd2Z8RPCBkY/) : présente et explique brièvement les différents messages MIDI ainsi que leur format
 
-[MIDI 1.0 CC Cheat Sheet (Pense-bête)](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/) : répertorie les 128 messages Control Change et des informations associées
+[MIDI 1.0 CC Cheat Sheet (Pense-bête)](https://docs.google.com/spreadsheets/d/1dl6iuqFCuGr4E6kiuZF266JmtjZGssYR-wN0yGWjE9w/) : répertorie les 128 messages Control Change et fournit quelques informations associées
 
-Le modèle mental est celui d’un « producteur » (musicien-compositeur-interprète-réalisateur artistique) qui utilise le MIDI pour jouer et écrire de la musique. Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
+Le modèle mental est celui d’un « producteur » (musicien compositeur-interprète-réalisateur artistique) qui utilise le MIDI pour jouer et écrire de la musique. Dans ce modèle, les messages MIDI constituent un langage de notation en temps réel, à la fois de la partition et de son interprétation, ancré dans la théorie musicale et intelligible aussi bien par les humains que par les machines.
 
 J’encourage développeuses et développeurs à adopter ce modèle, afin d’éviter de concevoir des programmes bancals, hostiles à la pratique et à la culture musicales. Modifier les messages par le biais d’abstractions ou de conversions bourrées de bugs, d’erreurs d’arrondi ou changer leur ordre revient à réécrire la partition, ce qui est évidemment inacceptable (on te voit, VST3).
